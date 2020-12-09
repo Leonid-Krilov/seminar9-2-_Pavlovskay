@@ -1,0 +1,4 @@
+﻿  FloppyDisk.cpp
+C:\Users\Леонид\source\repos\9 seminar _pavlovskay 2\9 seminar _pavlovskay 2\Clist.h(108): warning C4715: Clist<FloppyDisk::File>::operator[]: значение возвращается не при всех путях выполнения
+C:\Users\Леонид\source\repos\9 seminar _pavlovskay 2\9 seminar _pavlovskay 2\Clist.h(108): warning C4715: Clist<int>::operator[]: значение возвращается не при всех путях выполнения
+  9 seminar _pavlovskay 2.vcxproj -> C:\Users\Леонид\source\repos\9 seminar _pavlovskay 2\Debug\9 seminar _pavlovskay 2.exe
